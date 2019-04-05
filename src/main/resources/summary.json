@@ -1,0 +1,237 @@
+{
+  "total_grand": 855000000,
+  "total_billable": 115200000,
+  "total_currencies": [
+    {
+      "currency": null,
+      "amount": null
+    }
+  ],
+  "data": [
+    {
+      "id": 92486199,
+      "title": {
+        "project": "Competence Center - Other (like trainings, etc)",
+        "client": "Lunatech Labs",
+        "color": "0",
+        "hex_color": "#e20505"
+      },
+      "time": 86400000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "Kotlin wrapper for Toggl API"
+          },
+          "time": 28800000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "Refereshing kafka"
+          },
+          "time": 28800000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "study flutter"
+          },
+          "time": 28800000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        }
+      ]
+    },
+    {
+      "id": 92486198,
+      "title": {
+        "project": "Competence Center - Workshops",
+        "client": "Lunatech Labs",
+        "color": "0",
+        "hex_color": "#e20505"
+      },
+      "time": 57600000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "Spark workshop"
+          },
+          "time": 28800000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "Spark Workshop"
+          },
+          "time": 28800000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        }
+      ]
+    },
+    {
+      "id": 76095390,
+      "title": {
+        "project": "ING via Fast Flex #Wholesale Banking ",
+        "client": "Fast Flex B.V.",
+        "color": "0",
+        "hex_color": "#fb8b14"
+      },
+      "time": 115200000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "FX rates functional test"
+          },
+          "time": 86400000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "TIbco EMS version upgrade for TLS v1.2"
+          },
+          "time": 28800000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        }
+      ]
+    },
+    {
+      "id": 2090843,
+      "title": {
+        "project": "Lunatech - Exceptional leave",
+        "client": "Lunatech Labs",
+        "color": "0",
+        "hex_color": "#e20505"
+      },
+      "time": 34200000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "Doctor"
+          },
+          "time": 5400000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "Ouderschapsverlof"
+          },
+          "time": 28800000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        }
+      ]
+    },
+    {
+      "id": 1900577,
+      "title": {
+        "project": "Lunatech - Vacation",
+        "client": "Lunatech Labs",
+        "color": "0",
+        "hex_color": "#e20505"
+      },
+      "time": 561600000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": ""
+          },
+          "time": 57600000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "Appointment @gementee rotterdam"
+          },
+          "time": 28800000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "Leave"
+          },
+          "time": 57600000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "Off"
+          },
+          "time": 14400000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "Vacation"
+          },
+          "time": 316800000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "vacation"
+          },
+          "time": 86400000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        }
+      ]
+    }
+  ]
+}

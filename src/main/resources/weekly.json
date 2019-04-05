@@ -1,0 +1,399 @@
+{
+  "total_grand": 855000000,
+  "total_billable": 115200000,
+  "total_currencies": [
+    {
+      "currency": null,
+      "amount": null
+    }
+  ],
+  "data": [
+    {
+      "title": {
+        "client": "Fast Flex B.V.",
+        "project": "ING via Fast Flex #Wholesale Banking ",
+        "color": "0",
+        "hex_color": "#fb8b14"
+      },
+      "pid": 76095390,
+      "totals": [
+        null,
+        null,
+        28800000,
+        28800000,
+        28800000,
+        28800000,
+        null,
+        115200000
+      ],
+      "details": [
+        {
+          "uid": 2073505,
+          "title": {
+            "user": "Sasi Swaminathan"
+          },
+          "totals": [
+            null,
+            null,
+            28800000,
+            28800000,
+            28800000,
+            28800000,
+            null,
+            115200000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "Lunatech Labs",
+        "project": "Competence Center - Other (like trainings, etc)",
+        "color": "0",
+        "hex_color": "#e20505"
+      },
+      "pid": 92486199,
+      "totals": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        28800000,
+        57600000,
+        86400000
+      ],
+      "details": [
+        {
+          "uid": 2874935,
+          "title": {
+            "user": "Sandeep Purohit"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            28800000,
+            null,
+            28800000
+          ]
+        },
+        {
+          "uid": 2073505,
+          "title": {
+            "user": "Sasi Swaminathan"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            28800000,
+            28800000
+          ]
+        },
+        {
+          "uid": 1296740,
+          "title": {
+            "user": "Yue Li"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            28800000,
+            28800000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "Lunatech Labs",
+        "project": "Competence Center - Workshops",
+        "color": "0",
+        "hex_color": "#e20505"
+      },
+      "pid": 92486198,
+      "totals": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        57600000,
+        57600000
+      ],
+      "details": [
+        {
+          "uid": 2661129,
+          "title": {
+            "user": "Andrew Korshny"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            28800000,
+            28800000
+          ]
+        },
+        {
+          "uid": 3249368,
+          "title": {
+            "user": "Petros Kontogiannis"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            28800000,
+            28800000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "Lunatech Labs",
+        "project": "Lunatech - Exceptional leave",
+        "color": "0",
+        "hex_color": "#e20505"
+      },
+      "pid": 2090843,
+      "totals": [
+        null,
+        null,
+        5400000,
+        null,
+        null,
+        28800000,
+        null,
+        34200000
+      ],
+      "details": [
+        {
+          "uid": 4333994,
+          "title": {
+            "user": "Michiel Thomassen"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            28800000,
+            null,
+            28800000
+          ]
+        },
+        {
+          "uid": 2138660,
+          "title": {
+            "user": "Shelley Hermans"
+          },
+          "totals": [
+            null,
+            null,
+            5400000,
+            null,
+            null,
+            null,
+            null,
+            5400000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "Lunatech Labs",
+        "project": "Lunatech - Vacation",
+        "color": "0",
+        "hex_color": "#e20505"
+      },
+      "pid": 1900577,
+      "totals": [
+        null,
+        null,
+        115200000,
+        115200000,
+        144000000,
+        100800000,
+        86400000,
+        561600000
+      ],
+      "details": [
+        {
+          "uid": 2246771,
+          "title": {
+            "user": "Antoine Laffez"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            28800000,
+            28800000
+          ]
+        },
+        {
+          "uid": 4359246,
+          "title": {
+            "user": "Antonia Touloumi"
+          },
+          "totals": [
+            null,
+            null,
+            28800000,
+            28800000,
+            null,
+            null,
+            null,
+            57600000
+          ]
+        },
+        {
+          "uid": 4487694,
+          "title": {
+            "user": "Ewa Borys"
+          },
+          "totals": [
+            null,
+            null,
+            28800000,
+            28800000,
+            28800000,
+            28800000,
+            28800000,
+            144000000
+          ]
+        },
+        {
+          "uid": 4430815,
+          "title": {
+            "user": "Mohammad Fazel"
+          },
+          "totals": [
+            null,
+            null,
+            28800000,
+            28800000,
+            28800000,
+            28800000,
+            28800000,
+            144000000
+          ]
+        },
+        {
+          "uid": 3249368,
+          "title": {
+            "user": "Petros Kontogiannis"
+          },
+          "totals": [
+            null,
+            null,
+            28800000,
+            null,
+            null,
+            null,
+            null,
+            28800000
+          ]
+        },
+        {
+          "uid": 2661122,
+          "title": {
+            "user": "Ravi Gupta"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            14400000,
+            null,
+            14400000
+          ]
+        },
+        {
+          "uid": 2874935,
+          "title": {
+            "user": "Sandeep Purohit"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            null,
+            28800000,
+            null,
+            null,
+            28800000
+          ]
+        },
+        {
+          "uid": 4487691,
+          "title": {
+            "user": "Siva Jeyakkodi"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            null,
+            28800000,
+            null,
+            null,
+            28800000
+          ]
+        },
+        {
+          "uid": 1296740,
+          "title": {
+            "user": "Yue Li"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            28800000,
+            28800000,
+            28800000,
+            null,
+            86400000
+          ]
+        }
+      ]
+    }
+  ],
+  "week_totals": [
+    null,
+    null,
+    149400000,
+    144000000,
+    172800000,
+    187200000,
+    201600000,
+    855000000
+  ]
+}
