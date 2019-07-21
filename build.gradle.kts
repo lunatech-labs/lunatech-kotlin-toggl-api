@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 //import org.jetbrains.kotlin.gradle.plugin.KotlinPluginWrapper
 
 plugins {
-    kotlin("jvm") version "1.3.20"
+    kotlin("jvm") version "1.3.30"
 }
 
 group = "com.lunatech.toggl"
@@ -22,10 +22,6 @@ repositories {
         name = "jitpack"
     }
 }
-
-//application {
-//    mainClassName = "com.lunatech.stagerfeed.StagerFeedApplicationKt"
-//}
 
 dependencies {
     implementation(kotlin("stdlib-jdk8"))

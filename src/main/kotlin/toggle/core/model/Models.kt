@@ -58,14 +58,7 @@ data class DetailsReport(
 
     private val totalHours = entries.map { TimeUtil.toHours(it.duration.standardSeconds) }::sum
 
-
-//    fun interval() = Interval(entries.map {_.start).min, entries.map {e -> e.end.getOrElse(e.start.plus(e.duration))).max)
 }
-
-//object IpDeserializer : ResponseDeserializable<DetailsReport> {
-//    override fun deserialize(content: String) =
-//        jacksonObjectMapper().readValue(content)
-//}
 
 data class TimeEntry(
     @SerializedName("uid") val userId: Long,
@@ -100,6 +93,20 @@ object DurationDeserializer : JsonDeserializer<Duration> {
         return Duration.millis(json?.asLong!!)
     }
 }
+
+data class WeeklyReport(
+    @SerializedName("total_billable") @JsonAdapter(DurationDeserializer::class) val totalBillable: Duration,
+    @SerializedName("total_count") val totalCount: Int
+)
+
+data class Title(
+    val client: String, val project: String, val color: String,
+    @SerializedName("hex_color") val hexColor: String
+)
+
+data class Totals(
+
+)
 
 data class Project(val id: Long, val name: String, val clientName: String?)
 

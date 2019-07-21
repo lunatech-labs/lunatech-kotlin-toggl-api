@@ -25,8 +25,8 @@ object Time {
     private val zone = DateTimeZone.forID("Europe/Amsterdam")
     private val tz = TimeZone.getTimeZone("Europe/Amsterdam")
 
-    fun ordinal(date: DateTime) = {
-        val cal = Calendar.getInstance()
+    fun ordinal(date: DateTime) = run {
+        val cal: Calendar = Calendar.getInstance()
         cal.time = date.toDateTime(zone).toDate()
         cal.timeZone = tz
         val num = cal.get(Calendar.DAY_OF_MONTH)
