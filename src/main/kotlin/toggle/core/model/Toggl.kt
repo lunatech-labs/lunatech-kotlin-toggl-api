@@ -6,8 +6,8 @@ import com.github.kittinunf.fuel.gson.gsonDeserializerOf
 import com.github.kittinunf.fuel.httpGet
 import kotlinx.coroutines.runBlocking
 
-private const val workspaceId = "94268"
-private const val apiKey = "9494a7475481dfe7aff97b6b782c2b7c"
+private const val workspaceId = "WORKSPACE_ID"
+private const val apiKey = "API_KEY"
 private const val defaultPwd = "api_token"
 private const val user = "info@lunatech.com"
 private const val reportingApiUrl = "https://toggl.com/reports/api/v2/details?user_agent=$user&workspace_id=$workspaceId"
